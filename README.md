@@ -6,7 +6,7 @@
 ![SequenceDiagram](https://upload-images.jianshu.io/upload_images/7698901-76c0d184df7e88cf.gif?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp)
 #### 2.Statistic
 分析项目代码行数，可以细化到每个类的量级  
-![Statistic]()  
+![Statistic](https://images2018.cnblogs.com/blog/1337265/201804/1337265-20180408120409207-2131499915.png)  
 #### 3.Free Mybatis plugin
 从dao层可以直接跳转到对应的mapper中  
 ![Mybatis](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Mybatis.png)  
