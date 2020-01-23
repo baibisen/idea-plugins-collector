@@ -27,10 +27,10 @@
 ![ignore](https://plugins.jetbrains.com/files/7495/screenshot_14958.png)
 #### 9.Rainbow Brackets
 彩虹代码块，更好看的代码高亮  
-![Rainbow](https://upload-images.jianshu.io/upload_images/1633382-a5731e465a1cb408.gif?imageMogr2/auto-orient/strip|imageView2/2/w/1140/format/webp)  
+![Rainbow](https://upload-images.jianshu.io/upload_images/1633382-a5731e465a1cb408.gif?imageMogr2/auto-orient/strip|imageView2/2/w/1140/format/webp)
 #### 10.Iedis
 redis可视化客户端，其实可以直接在terminate里直接连  
-![Iedis](https://plugins.jetbrains.com/files/9228/screenshot_16396.png)  
+![Iedis](https://plugins.jetbrains.com/files/9228/screenshot_16396.png)
 #### 11.GrepConsole
 过滤筛选出来自己想看的日志，可以设置颜色  
 ![GrepConsole](https://plugins.jetbrains.com/files/7125/screenshot_16117.png)  
