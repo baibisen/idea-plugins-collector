@@ -9,16 +9,16 @@
 ![Statistic](https://images2018.cnblogs.com/blog/1337265/201804/1337265-20180408120409207-2131499915.png)  
 #### 3.Free Mybatis plugin
 从dao层可以直接跳转到对应的mapper中  
-![Mybatis](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Mybatis.png)  
+![Mybatis](https://img2018.cnblogs.com/common/1885483/201912/1885483-20191221143524020-890822477.png)  
 #### 4.Maven helper
 可以分析pom的依赖书，并且可以分析版本冲突  
-![Maven](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Maven.png)  
+![Maven](https://image-static.segmentfault.com/142/399/1423993101-5c24cb626c619_articlex)  
 #### 5.RestfulToolkit
 可以直接在编辑器中进行http请求，接口测试，轻便型的postman  
-![RestfulToolkit](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/RestfulToolkit.png)  
+![RestfulToolkit](https://plugins.jetbrains.com/files/10292/screenshot_17679.png)  
 #### 6.GsonFormat
 可以将json文件转化成object  
-![GsonFormat](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/GsonFormat.png)  
+![GsonFormat](https://plugins.jetbrains.com/files/7654/screenshot_15729.png)  
 #### 7.lombok
 这个很常用，省掉model类中的setter和getter，toString，equals等  
 ![lombok](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/lombok.png)
