@@ -21,7 +21,7 @@
 ![GsonFormat](https://plugins.jetbrains.com/files/7654/screenshot_15729.png)  
 #### 7.lombok
 这个很常用，省掉model类中的setter和getter，toString，equals等  
-![lombok](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/lombok.png)
+![lombok](https://upload-images.jianshu.io/upload_images/12741791-f91ce70786a1d1c0.png?imageMogr2/auto-orient/strip|imageView2/2/w/558/format/webp)
 #### 8.ignore
 可以生成各种ignore  
 ![ignore](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/ignore.png)  
