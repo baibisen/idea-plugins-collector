@@ -30,12 +30,12 @@
 ![Rainbow](https://upload-images.jianshu.io/upload_images/1633382-a5731e465a1cb408.gif?imageMogr2/auto-orient/strip|imageView2/2/w/1140/format/webp)  
 #### 10.Iedis
 redis可视化客户端，其实可以直接在terminate里直接连  
-![Iedis](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Iedis.png)  
+![Iedis](https://plugins.jetbrains.com/files/9228/screenshot_16396.png)  
 #### 11.GrepConsole
 过滤筛选出来自己想看的日志，可以设置颜色  
-![GrepConsole](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/GrepConsole.png)  
+![GrepConsole](https://plugins.jetbrains.com/files/7125/screenshot_16117.png)  
 #### 12.MyBatisCodeHelperPro
 mybatis各种功能，包括xml补全，快捷键生成注解，检测id冲突等  
-![MyBatisCodeHelperPro](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/MyBatisCodeHelperPro.gif)  
+![MyBatisCodeHelperPro](https://upload-images.jianshu.io/upload_images/11962894-4d6e4746758c2ffa.gif?imageMogr2/auto-orient/strip|imageView2/2/w/1101/format/webp)  
 
 ### 如果觉得有点帮助 请给点个star鼓励下~
