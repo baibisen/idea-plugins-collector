@@ -24,10 +24,10 @@
 ![lombok](https://upload-images.jianshu.io/upload_images/12741791-f91ce70786a1d1c0.png?imageMogr2/auto-orient/strip|imageView2/2/w/558/format/webp)
 #### 8.ignore
 可以生成各种ignore  
-![ignore](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/ignore.png)  
+![ignore](https://plugins.jetbrains.com/files/7495/screenshot_14958.png)
 #### 9.Rainbow Brackets
 彩虹代码块，更好看的代码高亮  
-![Rainbow](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Rainbow.webp)  
+![Rainbow](https://upload-images.jianshu.io/upload_images/1633382-a5731e465a1cb408.gif?imageMogr2/auto-orient/strip|imageView2/2/w/1140/format/webp)  
 #### 10.Iedis
 redis可视化客户端，其实可以直接在terminate里直接连  
 ![Iedis](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Iedis.png)  
