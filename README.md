@@ -3,10 +3,10 @@
 #### 1.SequenceDiagram
 通过选中的方法，可以查看到调用的深度，生成时序图，好厉害  
 选中方法名（注意不要选类名），然后点击鼠标右键（显示可选项），选择Sequence Diagram  
-![SequenceDiagram](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/SequenceDiagram.webp)  
+![SequenceDiagram](https://upload-images.jianshu.io/upload_images/7698901-76c0d184df7e88cf.gif?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp)
 #### 2.Statistic
 分析项目代码行数，可以细化到每个类的量级  
-![Statistic](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Statistic.png)  
+![Statistic]()  
 #### 3.Free Mybatis plugin
 从dao层可以直接跳转到对应的mapper中  
 ![Mybatis](https://github.com/baibisen/idea-plugins-collector/tree/master/pic/Mybatis.png)  
