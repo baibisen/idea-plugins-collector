@@ -39,3 +39,7 @@ mybatis各种功能，包括xml补全，快捷键生成注解，检测id冲突�
 ![MyBatisCodeHelperPro](https://upload-images.jianshu.io/upload_images/11962894-4d6e4746758c2ffa.gif?imageMogr2/auto-orient/strip|imageView2/2/w/1101/format/webp)  
 
 ### 如果觉得有点帮助 请给点个star鼓励下~
+
+## 友情链接
+[idea中很厉害的插件 开发必备利器](https://github.com/baibisen/idea-plugins-collector)  
+[idea激活办法汇总](https://github.com/baibisen/idea-license-collector)
